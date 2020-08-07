@@ -1,0 +1,3 @@
+Segunda:
+    ctrl+shift+r: reload descartando cache
+    
